@@ -1,0 +1,75 @@
+[
+    {
+        "company": "GIRL SCRIPT SUMMER OF CODE",
+        "company_location": "Remote",
+        "role": "Contributor",
+        "team": "",
+        "time_duration": "May 2023 - Aug 2023",
+        "details": [
+            {
+                "title": "Contributions to Open-Source Projects",
+                "description": "During the program, I contributed to the development of various open-source projects, including web applications, and tools for data analysis."
+            },
+            {
+                "title": "Content Addins",
+                "description": "Developed embedded web app content add-ins in GitHub project readmes, enhancing contributors' understanding and seamless integration into documentation."
+            }
+        ]
+    },
+    {
+        "company": "MUJ Central",
+        "company_location": "Jaipur, India",
+        "role": "Project Developer",
+        "team": "",
+        "time_duration": "March 2023 - Sept 2023",
+        "details": [
+            {
+                "title": "Embedded Web Content",
+                "description": "Coordinated cross-functional teams to meet project deadlines, ensuring all deliverables were completed on time and within budget."
+            },
+            {
+                "title": "Data-Driven Analysis and Process Improvement",
+                "description": "Analyzed project data and metrics to identify areas for improvement and implemented process."
+            },
+            {
+                "title": "Market Research",
+                "description": "Conducted thorough market research to identify new business opportunities, resulting in the successful launch of two new products."
+            }
+        ]
+    },
+    {
+        "company": "IEEE Computer Society MUJ",
+        "company_location": "Jaipur, India",
+        "role": "Senior Coordinator of Technical Projects",
+        "team": "",
+        "time_duration": "July 2023 - Present",
+        "details": [
+            {
+                "title": "IEEE-CS MUJ Website",
+                "description": "Developed IEEE-CS MUJ website, featuring chapter history, past projects, upcoming events, resources, leadership, and collaborations. Optimized for SEO, security, and accessibility. Mobile-responsive design. Social media integration."
+            },
+            {
+                "title": "Event and Publication Management",
+                "description": "One of the most exciting aspects of my role is managing events, conferences, and publications. These are instrumental in disseminating the latest knowledge and innovations in computer science and technology."
+            }
+            
+        ]
+    },
+    {
+        "company": " INeuron.ai",
+        "company_location": "Remote",
+        "role": "Web Developer Intern",
+        "team": "",
+        "time_duration": "March 2023 - Aug 2023",
+        "details": [
+            {
+                "title": "EBus Management",
+                "description": "As a Web Dev Intern I worked on EBus Management Based Current Location System project."
+            },
+            {
+                "title": "Advanced EBus Fleet Management System",
+                "description": "Leverage React.js and MongoDB to engineer a sophisticated eBus fleet management system featuring real-time GPS tracking, route optimization, and robust data analytics."
+            }
+        ]
+    }
+]

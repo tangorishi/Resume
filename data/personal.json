@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Rishi Joshi",
+        "website": "https://github.com/tangorishi",
+        "email": "rishijoshi.outlook@gmail.com",
+        "phone": "+91-95699-13103",
+        "linkedin":"https://www.linkedin.com/in/rishi-joshi-924882200/",
+        "languages": [
+            {
+                "language": "C++"
+            },
+            {
+                "language": "JavaScript"
+            },
+            {
+                "language": "Java"
+            },
+            {
+                "language": "C"
+            }
+        ],
+        "technologies": [
+            {
+                "technology": "NextJs"
+            },
+            {
+                "technology": "ReactJs"
+            },
+            {
+                "technology": "TailwindCss"
+            },
+            {
+                "technology": "MongoDB"
+            },
+            {
+                "technology": "NodeJs"
+            }
+        ]
+    }
+]

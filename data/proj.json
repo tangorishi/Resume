@@ -1,0 +1,15 @@
+[
+    {
+        "title": "GENESIS Website for IEEE College Tech Fest",
+        "description": "I created a website for GENESIS, the largest technical fest organized by IEEE at our college. This website facilitated event registrations, significantly reducing the need for in-person registration. The project streamlined the registration process, making it more convenient for participants and reducing the administrative burden on organizers."
+    },
+    {
+        "title": "Hackx International Hackathon",
+        "description": "Created a dedicated website for the international Hackx hackathon, organized by the School of Computer Science and Engineering. The website facilitated the seamless registration of participants, and, following the conclusion of the hackathon, participants were able to conveniently obtain their certificates of participation directly through the website."
+    },
+    {
+        "title": "SKINSATHI - AI-Powered Skin Disease Identification and Management Tool",
+        "description": "Created an AI-based web application in Reactjs for the Smart India Hackathon that can identify skin diseases and provide chatbot support and doctor assistance. The application uses MongoDB to store patient data on the server for user authentication."
+    }
+   
+]
